@@ -1,7 +1,7 @@
 
 About the Website
 Built a cart page using the react-redux.
-The page have 5 porducts where there is remove from cart button.
+The page have 5 products where there is remove from cart button.
 
 The total price and total quantity are displayed in header section.
 
